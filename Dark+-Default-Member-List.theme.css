@@ -1,17 +1,17 @@
 /**
-  * @name Dark+-Defualt-Member-List
+  * @name Dark+-Default-Member-List
   * @author DevEvil
   * @version Dark+5.1
   * @description Highly customized dark and purple theme for Discord
   * @authorId 468132563714703390
   * @authorLink https://devevil.com
-  * @source https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist
+  * @source https://github.com/DevEvil99/DarkPlus-Default-Memberlist
   * @website https://devevil.com
   * @donate https://devevil.com/dnt
   * @invite jsQ9UP7kCA
 */
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark%2B-Defualt-Member-List/Dark%2B-Default-Member-List.css');
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark%2B-Default-Member-List/Dark%2B-Default-Member-List.css');
 
 :root {
   --darkplus-bg: #212121;
